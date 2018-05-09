@@ -1,1 +1,0 @@
-The Amazon review polarity dataset can be found here: https://drive.google.com/open?id=0Bz8a_Dbh9QhbaW12WVVZS2drcnM
